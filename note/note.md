@@ -31,9 +31,9 @@
 
 1. 点击注册按钮
 
-   使用浏览器打开https://mp.weixin.qq.com/网址，点击右上角的**立即注册**即可进入到小程序开发账号被的注册流程
+   使用浏览器打开 https://mp.weixin.qq.com/ 网址，点击右上角的**立即注册**即可进入到小程序开发账号被的注册流程
 
-   ![image-20230723152605218](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20230723152605218.png)
+   ![注册截图](D:\图片\小程序相关截图\注册截图.png)
 
 2. 选择注册类型
 
@@ -43,7 +43,7 @@
 
 4. 提示邮箱激活
 
-   ![image-20230723153331723](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20230723153331723.png)
+   ![邮箱激活](D:\图片\小程序相关截图\邮箱激活.png)
 
 5. 点击链接激活账号
 
@@ -55,7 +55,7 @@
 
    登录最初始的网址，然后点最左侧的
 
-   ![image-20230723154616233](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20230723154616233.png)
+   ![小程序id](D:\图片\小程序相关截图\小程序id.png)
 
 ### 安装开发者工具
 
