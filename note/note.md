@@ -141,3 +141,39 @@
    3. 项目根目录中的sitemap.json配置文件
    4. 每个页面文件加中的.json文件 
 
+2. app.json文件
+
+   app.json是当前小程序的全局配置，包括了小程序的所有页面路径、窗口外观、界面表现、底部tab等。
+
+   Demo项目里边的app.json配置内容如下：
+
+   ```js
+   {
+       "pages"[
+           
+       ],
+       "window":{
+           
+       }
+       "style":"",
+       "sitemapLocation":""
+   }
+   ```
+
+   简单了解下这4个配置项的作用：
+
+   1. pages：用来记录当前小程序所有页面的路径
+   2. window：全集定义小程序所有页面的背景色、文字颜色等
+   3. style：全局定义小程序组件所使用的昂是版本
+   4. sitemapLocation：用来指明sitmap.josn的位置
+
+3. project.config.json文件
+
+   project.config.json是项目的配置文件，用来记录我们对小程序开发工具所做的个性化配置，例如：
+
+   - setting中保存了编译相关配置
+   - projectname中保存的是项目名称
+   - appid中保存的是小程序的账号ID
+
+4. 
+
