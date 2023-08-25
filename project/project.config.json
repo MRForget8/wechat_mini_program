@@ -8,6 +8,7 @@
   "compileType": "miniprogram",
   "projectname": "ts-demo",
   "setting": {
+    "checkInvalidKey": true,
     "useCompilerPlugins": [
       "typescript"
     ],
